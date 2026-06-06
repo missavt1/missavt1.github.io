@@ -52,9 +52,9 @@ for(var i =0;i<urls.length*3;i++){
 }
 
 var otherUrls = [
-	'https://missavt01.github.io',
-	'https://missavt01.netlify.app',	
-	'https://missavt01.pages.dev',		
+	'https://missavt1.github.io',
+	'https://missavt1.netlify.app',	
+	'https://missavt1.pages.dev',		
 ];
 var foreverUrls = [
     'https://missavt.com',JumpPage
