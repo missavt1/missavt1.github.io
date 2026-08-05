@@ -42,7 +42,7 @@ var urls=[
 	'ugmvjfuof.cc',
 
 ];                                                                                                                 
-var JumpPage="https://missavt31.com";
+var JumpPage="https://missavt38.com";
 
 var newestUrls = [];
 
