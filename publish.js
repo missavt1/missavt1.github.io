@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
-	'mwkclggq.cc',
-    'nhrwprb.cc',
-	'ugmvjfuof.cc',
+	'rqm9xvhkplv.com',
+    'mdofkusz.cc',
+	'iqezohkeh.cc',
 
 ];                                                                                                                 
 var JumpPage="https://missavt38.com";
